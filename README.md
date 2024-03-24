@@ -38,6 +38,8 @@ Nếu chưa có tài khoản, nhấn đăng ký tài khoản CGV
 
          
 Hình 2: Giao diện đăng ký
+![admin](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/24eb3ebf-93e0-4b53-aa25-dbcba9aee331)
+
 Nhập thông tin đăng ký gồm: Họ tên, tên tài khoản, mật khẩu, địa chỉ, số điện thoại và ngày sinh. Trong đó:
 - Tên tài khoản dài từ 6-24 ký tự, chỉ nhập chữ và số ,chữ hoa
 - Mật khẩu dài từ 6-24 ký tự, chỉ nhập chữ và số ,chữ hoa
