@@ -76,12 +76,14 @@ Hình 8: Giao diện quản lý doanh thu
 Hình 9 :Giao diện quản lý tài khoản
 
 
-
+![phim](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/2611fbd1-ce6e-4d8a-a1fe-52883701b231)
 Hình 9: Giao diện xem lịch chiếu phim của khách hàng
-
+![ve dat dac](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/05ed7e90-de4b-4166-9f48-bba19fc1ab99)
 Hình 10: Giao diện quản lý vé của khách hàng
 - Tài khoản khách hàng có quyền xem vé mình đã đặt.s
-
+![api](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/ff225ced-d361-48ba-9969-4f15c2461d72)
+![ghe](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/e23b95d5-ce2d-482a-a83d-9f49a383dd2a)
+![phim](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/2611fbd1-ce6e-4d8a-a1fe-52883701b231)
 
 
 
