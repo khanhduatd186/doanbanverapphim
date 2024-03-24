@@ -29,6 +29,7 @@ Cơ sở dữ liệu phần mềm bán vé xem phim
 https://github.com/khanhduatd186/doanbanverapphim/issues/1#issue-2204205493
 
 
+![admin](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/24eb3ebf-93e0-4b53-aa25-dbcba9aee331)
 
 
  
@@ -36,35 +37,42 @@ Hình 1: Giao diện đăng nhập
 Mô tả: Nếu đã có tài khỏa, thì nhập username và password, nếu đúng thì đăng nhập thành công.
 Nếu chưa có tài khoản, nhấn đăng ký tài khoản CGV
 
-         
+ ![dangky](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/51a0e731-9981-43ed-81ce-698aa2001298)
+
 Hình 2: Giao diện đăng ký
-![admin](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/24eb3ebf-93e0-4b53-aa25-dbcba9aee331)
+
 
 Nhập thông tin đăng ký gồm: Họ tên, tên tài khoản, mật khẩu, địa chỉ, số điện thoại và ngày sinh. Trong đó:
 - Tên tài khoản dài từ 6-24 ký tự, chỉ nhập chữ và số ,chữ hoa
 - Mật khẩu dài từ 6-24 ký tự, chỉ nhập chữ và số ,chữ hoa
 - Xác nhận mật khẩu phải khớp với mật khẩu.
+![quanlyadmin](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/6a642000-ad6f-4319-917a-187b0eda6b83)
 
 Hình 3: Giao diện quản lý của admin
+![quanlynhanvien](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/84428f96-b372-4806-a2b4-4bf413b4cb9d)
 
 Hình 4: Giao diện quản lý nhân viên của admin
 - Admin có quyền quản lý nhân viên, khách hàng, doanh thu, tài khoản, và toàn bộ dữ liệu trong hệ thống.
+![giaodienkhachhang](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/1b4e167d-282c-43a1-ad40-dc23f9f2ee51)
 
 Hình 5: Giao diện quản lý khách hàng
 - Thông tin khách hàng đã đăng ký tài khoản.
+![quanlydulieu](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/51417df0-65be-4b34-88f4-735718222774)
 
 Hình 5: Giao diện quản lý dữ liệu
 - Thông tin phòng chiếu 
-
+![quanlyve](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/ea908f29-1140-4042-9d2d-b83caeecfb46)
 
 Hình 6: Giao diện quản lý vé
 - Vé có thể tạo tự động thông qua lịch chiếu và phim
+![quanlyphim](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/891c5a61-3c41-4e06-b986-a90d44ea97ef)
 
 Hình 7: Giao diện quản lý phim
+![quanlydoanhthu](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/9145a59b-f1b3-4d05-9ef7-beee8642c298)
 
 Hình 8: Giao diện quản lý doanh thu
 - Admin quản lý doanh thu của rạp theo từng phim và từng khoảng thời gian.
-
+![quanlytaikhoan](https://github.com/khanhduatd186/doanbanverapphim/assets/127516595/9a64f696-2e36-48bd-a2b6-31c7b985d326)
 Hình 9 :Giao diện quản lý tài khoản
 
 
